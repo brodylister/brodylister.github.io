@@ -19,3 +19,4 @@ My GitHub page is http://github.com/brodylister.
 * Lab 12
 
     Lab 12 was definitely my favorite of the whole course, specifically Part 1. We had used file I/O before this, but this was the first time we created an image, specifically a .gif. Additionally, we used lookup tables to simplify the sine function, and it was the first time we used an API to help with image generation. This resulted in a really cool animated image from scratch. 
+![The gradient .gif from Lab 12](images/gradient.gif)
